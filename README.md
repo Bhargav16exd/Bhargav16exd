@@ -71,3 +71,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Bhargav16exd /Bhargav16exd /output/snake.svg" alt="Snake animation" />
+
+###
