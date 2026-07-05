@@ -11,5 +11,5 @@ $ Interests
 Projects :
 
 ```
-https://app.notion.com/p/Projects-39072e56834880f8a442c07055654eec?source=copy_link
+https://app.notion.com/p/Projects-39072e56834880f8a442c07055654eec
 ```
